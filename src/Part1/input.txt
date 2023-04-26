@@ -8,3 +8,7 @@ aabbcc
 xxyybb
 1919output
 8
+
+daredddc
+bread
+
