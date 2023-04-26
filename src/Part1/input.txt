@@ -1,0 +1,10 @@
+2744 input
+WrongAnswer
+2744output
+wRONGaNSWER
+
+1919 input
+aabbcc
+xxyybb
+1919output
+8
