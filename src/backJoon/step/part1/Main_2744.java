@@ -1,4 +1,4 @@
-package part1;
+package backJoon.step.part1;
 
 import java.util.Scanner;
 
