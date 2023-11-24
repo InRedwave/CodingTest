@@ -13,3 +13,29 @@ long long long long long int
 40
 85
 61
+
+//
+
+5 4
+1 2 3
+3 4 4
+1 4 1
+2 2 2
+
+
+//
+Sprout
+3
+
+shiftpsh
+6
+
+//
+5 4
+1 2
+3 4
+1 4
+2 2
+
+
+
